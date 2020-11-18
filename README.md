@@ -1,1 +1,1 @@
-#Android-Studio-1-BtnSwitch
+這是當按下按鈕時，按鈕上的“登錄”將切換為“註銷”
